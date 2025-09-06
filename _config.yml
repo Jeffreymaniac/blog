@@ -18,7 +18,7 @@ dark-theme: dark
 # and specify source (external or local).
 resume: false
 
-url: https://sergiokopplin.github.io/indigo
+url: https://jeffreymaniac.github.io/blog
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -38,9 +38,9 @@ github: Jeffreymaniac
 email: jeffreyrb03@gmail.com
 
 authors:
-  johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+  jaecadejnight:
+    name: JaecadeJnight
+    bio: A guy
     external-image: false
     picture: assets/images/profile.jpg
     twitter: johndoe
